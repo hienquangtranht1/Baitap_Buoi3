@@ -1,0 +1,10 @@
+D:\hoc\bai tap moi truong windows\btvn_buoi 3\bin\Debug\btvn_buoi 3.exe.config
+D:\hoc\bai tap moi truong windows\btvn_buoi 3\bin\Debug\btvn_buoi 3.exe
+D:\hoc\bai tap moi truong windows\btvn_buoi 3\bin\Debug\btvn_buoi 3.pdb
+D:\hoc\bai tap moi truong windows\btvn_buoi 3\obj\Debug\btvn_buoi 3.csproj.AssemblyReference.cache
+D:\hoc\bai tap moi truong windows\btvn_buoi 3\obj\Debug\btvn_buoi_3.Form1.resources
+D:\hoc\bai tap moi truong windows\btvn_buoi 3\obj\Debug\btvn_buoi_3.Properties.Resources.resources
+D:\hoc\bai tap moi truong windows\btvn_buoi 3\obj\Debug\btvn_buoi 3.csproj.GenerateResource.cache
+D:\hoc\bai tap moi truong windows\btvn_buoi 3\obj\Debug\btvn_buoi 3.csproj.CoreCompileInputs.cache
+D:\hoc\bai tap moi truong windows\btvn_buoi 3\obj\Debug\btvn_buoi 3.exe
+D:\hoc\bai tap moi truong windows\btvn_buoi 3\obj\Debug\btvn_buoi 3.pdb
